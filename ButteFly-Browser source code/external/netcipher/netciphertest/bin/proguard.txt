@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:11
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class info.guardianproject.onionkit.test.TLSPretenseClientActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class info.guardianproject.onionkit.ui.CertDisplayActivity { <init>(...); }
+

@@ -1,0 +1,23 @@
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes.dex : \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\R$drawable.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\R$raw.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\R$string.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\R.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\BuildConfig.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\R$attr.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\R$dimen.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\R$drawable.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\R$id.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\R$layout.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\R$raw.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\R$string.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\R$style.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\R.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\TLSPretenseClientActivity$1.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\TLSPretenseClientActivity$TestQueue.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\TLSPretenseClientActivity$TlsConnectTask.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\classes\info\guardianproject\onionkit\test\TLSPretenseClientActivity.class \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\dexedLibs\classes-5eb4011acbac23e4f3c8946adc27ca91.jar \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\dexedLibs\httpclientandroidlib-1.2.1-e5e169f17752295d86e2c07864cfc838.jar \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\dexedLibs\android-support-v4-71139b124a631002a80c1b886bb8d833.jar \
+C:\Users\Fujitsu\Documents\NetBeansProjects\Lightning-Browser\external\netcipher\netciphertest\bin\dexedLibs\spongycastle-core-1.50.0.0-d7786588403a9ff1ad60e1aa14909fe5.jar \

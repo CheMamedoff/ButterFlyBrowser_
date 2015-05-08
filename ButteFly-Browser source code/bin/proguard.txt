@@ -1,0 +1,36 @@
+# view AndroidManifest.xml #generated:161
+-keep class acr.browser.butterfly.AboutSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+-keep class acr.browser.butterfly.AdvancedSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:198
+-keep class acr.browser.butterfly.BookmarkActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class acr.browser.butterfly.BrowserApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class acr.browser.butterfly.DisplaySettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:117
+-keep class acr.browser.butterfly.GeneralSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:172
+-keep class acr.browser.butterfly.IncognitoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class acr.browser.butterfly.LicenseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class acr.browser.butterfly.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class acr.browser.butterfly.PrivacySettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:106
+-keep class acr.browser.butterfly.SettingsActivity { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:26
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
